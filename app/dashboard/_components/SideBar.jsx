@@ -34,12 +34,12 @@ const SideBar = () => {
       icon: <HiOutlineShieldCheck />,
       path: "/dashboard/upgrade",
     },
-    {
-      id: 4,
-      name: "Logout",
-      icon: <HiOutlinePower />,
-      path: "/dashboard/logout",
-    },
+    // {
+    //   id: 4,
+    //   name: "Logout",
+    //   icon: <HiOutlinePower />,
+    //   path: "/dashboard/logout",
+    // },
   ];
 
   return (
